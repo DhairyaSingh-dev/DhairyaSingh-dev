@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, Im Dhairya:
 🔭 I’m currently working on Fintra (AI market analysis) and KickOff.<br><br>🤝 I’m looking to collaborate on Full Stack and Backend Architecture projects.<br><br>🌱 I’m currently learning Advanced DSA and improving my CodeChef rating.<br><br>💬 Ask me about Python, TypeScript, and building production-ready apps.<br><br>⚡ Fun fact: I started with Pygame, but now I prefer building complex system designs.
 
 
